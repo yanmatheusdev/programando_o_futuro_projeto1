@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-<h4>Integrantes: Elyaquin Verêda,Isabella Langone,Yan Matheus,José Rafael,Pétala Miranda e Vitor Gabriel.</h4>
+<h4>Integrantes: Elyaquin Verêda, Isabella Langone, Yan Matheus, José Rafael, Pétala Miranda e Vitor Gabriel.</h4>
 <h2>1. O PROBLEMA</h2>  
 <p> A dificuldade de encontrar e comparar cursos de tecnologia adequados aos interesses, ao nível de conhecimento e aos objetivos profissionais dos usuários, devido à falta de informações centralizadas sobre preços, duração, modalidades e instituições, além da dificuldade de localizar opções presenciais próximas e acessíveis financeiramente.</p>
 <h2>2. O PÚBLICO</h2>
