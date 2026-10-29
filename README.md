@@ -5,4 +5,4 @@
 <h2>2. O PÚBLICO</h2>
 <h2>3. A SOLUÇÃO</h2>
 
-https://readme-typing-svg.demolab.com/demo/
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Grupo+resenhudo)](https://git.io/typing-svg)
